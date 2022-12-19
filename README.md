@@ -11,7 +11,7 @@
   
 ## How to run the code:
  - Since the data we use can be downloaded directly from the web, we wrote the code in jupyter notebook to load that dataset.
- - 
+ - You can directly download two files called E4040_project_fianlmodel.ipynb and mobilenet.py. Put them in a folder and upload it to your environment. Then you just need to open the E4040_project_fianlmodel.ipynb and run the code inside it.
  - Opening the file called E4040_project_fianlmodel.ipynb
 
 
