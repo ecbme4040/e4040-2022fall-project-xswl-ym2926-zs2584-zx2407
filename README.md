@@ -17,7 +17,8 @@
 - E4040_project_fianlmodel.ipynb
 
 ## Key functions of each file in the project:
-
+- E4040_project_fianlmodel.ipynb: Our main jupyter notebook, it contains all the processes of our project. It concludes Data loading, Data pre-processing, MobileNet building, Model training, Parameter tuning and Image drawing.
+- mobilenet.py: This file contains the 
 
 
 ## Organization of directories:
