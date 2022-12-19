@@ -14,7 +14,7 @@
 
 
 ## The name of the main jupyter notebook:
-- 
+- E4040_project_fianlmodel.ipynb
 
 ## Key functions of each file in the project:
 
