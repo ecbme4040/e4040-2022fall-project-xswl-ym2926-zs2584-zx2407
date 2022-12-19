@@ -25,8 +25,11 @@
 
 ## Organization of directories:
 --README.md
+
 --E4040_project_fianlmodel.ipynb
+
 --mobilenet.py
+
 --E4040.2022Fall.XSWL.report.ym2926.zs2584.zx2407.pdf
 
 
