@@ -22,6 +22,7 @@
 - E4040_project_fianlmodel.ipynb: Our main jupyter notebook, contains all the processes of our project. It concludes Data loading, Data pre-processing, MobileNet building, Model training, Parameter tuning and Image drawing.
 - mobilenet.py: This file contains the code of MobileNet architecture.
 - E4040.2022Fall.XSWL.report.ym2926.zs2584.zx2407.pdf: Our subject report.
+- Failed_Experiments.file - 
 
 ## Organization of directories:
 --README.md
